@@ -1,5 +1,5 @@
 # Project: Machine learning for glacier mass balance modelling
-
+**Student: Lucia Gutierrez**
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
